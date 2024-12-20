@@ -20,7 +20,6 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-%234C78A8.svg?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 
