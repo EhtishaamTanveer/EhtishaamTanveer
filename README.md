@@ -1,7 +1,7 @@
 ## Hi, I'm M. Ehtishaam Tanveer 👋
 
-- 💬 I am an AI Engineer working remotely at Archon Solutions, Islamabad, Pakistan 
-- ⚡ Passionate about exploring the worlds of Deep Learning and Natural Language Processing to address practical problems
+- 💬 I am a Machine Learning Engineer working at Maanz AI, Islamabad, Pakistan
+- ⚡ Passionate about exploring the worlds of Deep Learning, Computer Vision, and Natural Language Processing to address practical problems
 - 🌱 By using my knowledge and skills, I am dedicated to work on large-scale projects
 - 🔭 Feel free to go through my repositories and see what I've been working on
 - 🤔 Looking forward to collaborate with everyone!!!
