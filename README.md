@@ -24,10 +24,12 @@
 
 
 ### Contact Details
-##
-📧 [Gmail](mailto:ehtishaan.lawa@gmail.com)
+<a href="mailto:ehtishaan.lawa@gmail.com?Subject=Hello%20User"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/> </a><a href="https://www.linkedin.com/in/ehtishaam-tanveer-64b78624a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/>
+</a>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ehtishaam-tanveer-64b78624a/)
+
+
 
 <!--
 **EhtishaamTanveer/EhtishaamTanveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
